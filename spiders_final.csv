@@ -1,0 +1,99 @@
+ID,taxa,tissue_type,species,site,site_type,sample_type,year,host.plant,Linear.corr.d15N,wt..N,Linear.corr.d13C,wt..C,cal_sample_date,enrich_day,days_since_enrich,cal_datecollected,enrich_day_real
+17-CINSECT-042,arthropod,spider,spider,15,native,control,2015,willow oak,2.64,10.46,-26.88,48.55,127,127,NA,127,127
+17-CINSECT-043,arthropod,spider,spider,3,native,control,2015,willow oak,4.85,11.41,-24.83,44.53,130,128,2,130,128
+17-CINSECT-044,arthropod,spider,spider,16,nonnative,control,2015,crape myrtle,2.84,10.63,-27.73,49.34,125,125,NA,125,125
+17-CINSECT-045,arthropod,spider,spider,5,nonnative,control,2015,crape myrtle,6.68,10.77,-27.14,49.84,137,139,NA,137,139
+17-CINSECT-047,arthropod,spider,spider,7,nonnative,control,2015,burning bush,1.59,9.77,-26.08,45.85,132,135,7,132,125
+17-CINSECT-048,arthropod,spider,spider,6,nonnative,control,2015,crape myrtle,3.24,12.47,-26.29,44.52,124,125,NA,124,125
+17-CINSECT-049,arthropod,spider,spider,7,nonnative,control,2015,bush honeysuckle,4.38,8.23,-24.84,30.34,132,135,7,132,125
+17-CINSECT-053,arthropod,spider,spider,13,native,control,2015,japanese cherry,-0.04,10.81,-26.93,47.39,177,140,37,177,140
+17-CINSECT-055,arthropod,spider,spider,7,nonnative,control,2015,red maple,1.68,10.62,-31.45,47.92,171,135,46,171,125
+17-CINSECT-029,arthropod,spider,spider,11,native,control,2015,flowering dogwood,5.34,9.95,-25.54,46.73,133,134,NA,133,134
+17-CINSECT-030,arthropod,spider,spider,11,native,control,2015,english oak,4.61,10.46,-26.53,44.1,133,134,NA,133,134
+17-CINSECT-031,arthropod,spider,spider,12,native,control,2015,fringetree,4.62,10.03,-24.07,43.43,130,130,NA,130,130
+17-CINSECT-032,arthropod,spider,spider,12,native,control,2015,redbud,5.42,10.05,-25.91,44.76,130,130,NA,130,130
+17-CINSECT-033,arthropod,spider,spider,15,native,control,2015,hawthorn,5.68,9.71,-26.24,44.19,127,127,NA,127,127
+17-CINSECT-034,arthropod,spider,spider,1,native,control,2015,white oak,2.87,10.15,-26.58,42.93,130,130,NA,130,130
+17-CINSECT-035,arthropod,spider,spider,14,native,control,2015,flowering dogwood,13.21,11.93,-26.27,45.56,117,120,NA,117,120
+17-CINSECT-036,arthropod,spider,spider,5,nonnative,control,2015,chinese elm,6.45,9.26,-26.98,46.56,137,139,NA,137,139
+17-CINSECT-037,arthropod,spider,spider,8,nonnative,control,2015,japanese maple,7.69,9.38,-25.92,46.52,131,138,NA,131,138
+17-CINSECT-038,arthropod,spider,spider,8,nonnative,control,2015,kousa dogwood,4.99,9.6,-26.26,46.46,133,138,NA,133,138
+17-NSPIDER-121,arthropod,spider,spider,13,native,enriched,2015,pin oak,6.95,8.81,-27.23,49.21,160,140,20,160,140
+17-NSPIDER-122,arthropod,spider,spider,13,native,enriched,2015,flowering dogwood,10.56,10.47,-26.16,47.75,160,140,20,160,140
+17-NSPIDER-123,arthropod,spider,spider,13,native,enriched,2015,flowering dogwood,19.75,12.08,-25.16,46.38,177,140,37,177,140
+17-NSPIDER-124,arthropod,spider,spider,11,native,enriched,2015,red maple,14.38,11.48,-25.2,44.8,149,134,15,149,134
+17-NSPIDER-125,arthropod,spider,spider,11,native,enriched,2015,southern arrowwood,7.03,11.02,-26.72,46.21,149,134,15,149,134
+17-NSPIDER-126,arthropod,spider,spider,11,native,enriched,2015,pin oak,20.96,10.76,-25.74,47.23,167,134,33,167,134
+17-NSPIDER-127,arthropod,spider,spider,11,native,enriched,2015,black cherry,9.22,11.37,-25.75,45.66,167,134,33,167,134
+17-NSPIDER-128,arthropod,spider,spider,11,native,enriched,2015,pin oak,68.59,11.34,-25.74,48.11,181,134,47,181,134
+17-NSPIDER-129,arthropod,spider,spider,1,native,enriched,2015,red maple,104.55,10.27,-27.64,49.71,162,130,32,162,130
+17-NSPIDER-130,arthropod,spider,spider,15,native,enriched,2015,red maple,19.99,11.24,-25.28,45.09,142,127,15,142,127
+17-NSPIDER-131,arthropod,spider,spider,15,native,enriched,2015,red maple,43.07,11.31,-26.12,45.67,160,127,33,160,127
+17-NSPIDER-132,arthropod,spider,spider,15,native,enriched,2015,red oak,8.71,11.46,-26.74,46.19,181,127,54,181,127
+17-NSPIDER-133,arthropod,spider,spider,15,native,enriched,2015,willow oak,168.98,11.56,-26.13,48.94,181,127,54,181,127
+17-NSPIDER-134,arthropod,spider,spider,14,native,enriched,2015,flowering dogwood,11.01,10.59,-26.63,49.76,141,120,21,141,120
+17-NSPIDER-135,arthropod,spider,spider,14,native,enriched,2015,sugar maple,9.92,10.87,-27.14,50.68,141,120,21,141,120
+17-NSPIDER-136,arthropod,spider,spider,14,native,enriched,2015,red maple,9.72,8.91,-27.8,48.51,162,120,42,162,120
+17-NSPIDER-137,arthropod,spider,spider,14,native,enriched,2015,sugar maple,29.83,12.53,-28.52,49.39,180,120,60,180,120
+17-NSPIDER-138,arthropod,spider,spider,7,nonnative,enriched,2015,norway maple,17.26,12.48,-25.67,43.41,168,135,43,168,125
+17-NSPIDER-139,arthropod,spider,spider,7,nonnative,enriched,2015,bush honeysuckle,9.25,11.93,-24.8,44.37,150,135,25,150,125
+17-NSPIDER-140,arthropod,spider,spider,16,nonnative,enriched,2015,japanese maple,11.83,11.61,-25.84,46.36,143,125,18,143,125
+17-NSPIDER-141,arthropod,spider,spider,16,nonnative,enriched,2015,japanese maple,100.05,11.99,-25.29,48.66,182,125,57,182,125
+17-NSPIDER-142,arthropod,spider,spider,8,nonnative,control,2015,european plum,7.64,11.15,-26.03,48.44,139,138,1,139,138
+17-NSPIDER-143,arthropod,spider,spider,8,nonnative,enriched,2015,viburnum plicatum,37.67,10.91,-27.19,47.13,176,138,38,176,138
+17-NSPIDER-144,arthropod,spider,spider,3,native,enriched,2015,flowering dogwood,15.04,11.68,-25.31,48,146,128,18,146,128
+17-NSPIDER-145,arthropod,spider,spider,3,native,enriched,2015,sweetgum,15.6,9.9,-26.86,50.95,173,128,45,173,128
+17-NSPIDER-146,arthropod,spider,spider,3,native,enriched,2015,willow oak,7.21,9.99,-27.48,50.97,163,128,35,163,128
+17-NSPIDER-147,arthropod,spider,spider,3,native,enriched,2015,beech,22.7,9.48,-27.24,51.85,163,128,35,163,128
+17-NSPIDER-148,arthropod,spider,spider,3,native,enriched,2015,red maple,37.5,10.99,-26.43,49.76,181,128,53,181,128
+17-NSPIDER-149,arthropod,spider,spider,3,native,enriched,2015,willow oak,34.64,11.26,-25.98,48.02,181,128,53,181,128
+17-NSPIDER-150,arthropod,spider,spider,3,native,enriched,2015,beech,39.97,10.96,-25.53,46.53,181,128,53,181,128
+17-NSPIDER-151,arthropod,spider,spider,6,nonnative,enriched,2015,bush honeysuckle,12.36,11.53,-25.88,45.64,152,125,27,152,125
+17-NSPIDER-152,arthropod,spider,spider,6,nonnative,enriched,2015,crape myrtle,12.36,10.74,-26.11,49.55,152,125,27,152,125
+17-NSPIDER-153,arthropod,spider,spider,6,nonnative,enriched,2015,bradford pear,32.89,10.69,-26.03,48,152,125,27,152,125
+17-NSPIDER-187,arthropod,spider,spider,9,nonnative,enriched,2015,persian ironwood,6.54,11.67,-26.49,48.04,159,134,25,159,134
+17-NSPIDER-188,arthropod,spider,spider,9,nonnative,enriched,2015,kousa dogwood,22.51,11.64,-27.61,48.15,159,134,25,159,134
+17-NSPIDER-189,arthropod,spider,spider,9,nonnative,enriched,2015,bush honeysuckle,10.61,12.02,-26.87,45.3,159,134,25,159,134
+17-NSPIDER-190,arthropod,spider,spider,9,nonnative,enriched,2015,mulberry,12.53,11.67,-25.65,46.53,159,134,25,159,134
+17-NSPIDER-191,arthropod,spider,spider,9,nonnative,enriched,2015,persian ironwood,19.69,9.67,-26.79,54.75,173,134,39,173,134
+17-NSPIDER-192,arthropod,spider,spider,9,nonnative,enriched,2015,kousa dogwood,17.46,12.22,-24.73,49.68,173,134,39,173,134
+17-NSPIDER-193,arthropod,spider,spider,2,native,enriched,2015,spicebush,8.31,10.74,-26.29,49.06,150,124,26,150,124
+17-NSPIDER-194,arthropod,spider,spider,2,native,enriched,2015,viburnum,25.44,11.63,-26.57,49.06,147,124,23,147,124
+17-NSPIDER-195,arthropod,spider,spider,2,native,enriched,2015,ironwood,20.67,12.18,-25.88,47.51,147,124,23,147,124
+17-NSPIDER-196,arthropod,spider,spider,2,native,enriched,2015,snowbell,6.68,13.52,-25.54,45.62,161,124,37,161,124
+17-NSPIDER-197,arthropod,spider,spider,2,native,enriched,2015,black cherry,9.2,11.77,-26.27,46.45,161,124,37,161,124
+17-NSPIDER-198,arthropod,spider,spider,2,native,enriched,2015,viburnum,20.3,10.59,-26.64,49.88,161,124,37,161,124
+17-NSPIDER-199,arthropod,spider,spider,2,native,enriched,2015,serviceberry,8.91,11.99,-25.81,47.67,161,124,37,161,124
+17-NSPIDER-200,arthropod,spider,spider,2,native,enriched,2015,black cherry,8.4,11.91,-26.42,49.35,182,124,58,182,124
+17-NSPIDER-201,arthropod,spider,spider,2,native,enriched,2015,viburnum,15.66,12,-27.29,49.63,182,124,58,182,124
+17-NSPIDER-202,arthropod,spider,spider,2,native,enriched,2015,ironwood,9.85,12.13,-26.64,50.06,182,124,58,182,124
+17-NSPIDER-203,arthropod,spider,spider,2,native,enriched,2015,serviceberry,14.5,12.17,-27.16,47.98,182,124,58,182,124
+17-NSPIDER-204,arthropod,spider,spider,12,native,enriched,2015,willow oak,8.81,10.49,-26.26,50.29,149,130,19,149,130
+17-NSPIDER-205,arthropod,spider,spider,12,native,enriched,2015,pin oak,13.96,10.04,-26.32,50.67,149,130,19,149,130
+17-NSPIDER-206,arthropod,spider,spider,12,native,enriched,2015,red maple,11.21,11.48,-25.44,49.87,167,130,37,167,130
+17-NSPIDER-207,arthropod,spider,spider,12,native,enriched,2015,pin oak,21.91,12.85,-26.28,48.62,167,130,37,167,130
+17-NSPIDER-208,arthropod,spider,spider,12,native,enriched,2015,flowering dogwood,15.06,11.47,-26.27,47.17,181,130,51,181,130
+17-NSPIDER-209,arthropod,spider,spider,12,native,enriched,2015,redbud,24,11.64,-26.1,50.6,181,130,51,181,130
+17-NSPIDER-210,arthropod,spider,spider,12,native,enriched,2015,pin oak,5.1,13.01,-24.93,43.85,181,130,51,181,130
+17-NSPIDER-211,arthropod,spider,spider,4,nonnative,enriched,2015,fragrant snowbell,31.13,10.94,-26.97,48.34,147,122,25,147,122
+17-NSPIDER-212,arthropod,spider,spider,8,nonnative,enriched,2015,viburnum,11.45,12.55,-26.25,45.04,159,138,21,159,138
+17-NSPIDER-213,arthropod,spider,spider,3,native,enriched,2015,willow oak,16.86,10.08,-25.96,47.12,146,128,18,146,128
+17-NSPIDER-214,arthropod,spider,spider,3,native,enriched,2015,red maple,5.32,11.95,-25.07,46.18,146,128,18,146,128
+17-NSPIDER-215,arthropod,spider,spider,6,nonnative,enriched,2015,japanese maple,10.82,8.59,-24.44,49.9,152,125,27,152,125
+17-NSPIDER-216,arthropod,spider,spider,6,nonnative,enriched,2015,crape myrtle,22.12,12.58,-26.05,46.57,180,125,55,180,125
+17-NSPIDER-217,arthropod,spider,spider,6,nonnative,enriched,2015,bradford pear,19.41,11.67,-25.77,46.93,180,125,55,180,125
+17-NSPIDER-218,arthropod,spider,spider,14,native,enriched,2015,sugar maple,5.45,11.99,-25.63,46.08,162,120,42,162,120
+17-NSPIDER-219,arthropod,spider,spider,2,native,enriched,2015,spicebush,77.59,8.18,-27.91,53.12,161,124,37,161,124
+17-NSPIDER-220,arthropod,spider,spider,2,native,enriched,2015,ironwood,5.48,10.96,-27.88,46.99,161,124,37,161,124
+17-NSPIDER-221,arthropod,spider,spider,12,native,enriched,2015,fringetree,55.81,11.34,-25.58,44.98,149,130,19,149,130
+17-NSPIDER-222,arthropod,spider,spider,5,nonnative,enriched,2015,viburnum plicatum,152.68,9.76,-27.88,50.01,157,139,18,157,139
+17-NSPIDER-223,arthropod,spider,spider,5,nonnative,enriched,2015,saucercup magnolia,10.19,13.02,-26.2,48.61,171,139,32,171,139
+17-NSPIDER-224,arthropod,spider,spider,5,nonnative,enriched,2015,crape myrtle,161.29,9.49,-27.44,53.69,157,139,18,157,139
+17-NSPIDER-225,arthropod,spider,spider,5,nonnative,enriched,2015,chinese elm,44.92,11.44,-25.6,47.9,157,139,18,157,139
+17-NSPIDER-226,arthropod,spider,spider,5,nonnative,enriched,2015,crape myrtle,162.07,10.6,-28.37,49.26,171,139,32,171,139
+17-NSPIDER-227,arthropod,spider,spider,3,native,enriched,2015,red maple,38.48,12.95,-26.12,48.91,163,128,35,163,128
+17-NSPIDER-228,arthropod,spider,spider,11,native,enriched,2015,southern arrowwood,18.69,10.11,-26.16,52.12,167,134,33,167,134
+17-NSPIDER-229,arthropod,spider,spider,7,nonnative,enriched,2015,bush honeysuckle,12.31,10.11,-27.14,51.43,168,135,43,168,125
+17-NSPIDER-230,arthropod,spider,spider,10,nonnative,enriched,2015,japanese maple,14.88,10.16,-27.28,53.12,142,121,21,142,121
+17-NSPIDER-231,arthropod,spider,spider,10,nonnative,enriched,2015,mulberry,9.08,12.45,-24.72,43.6,142,121,21,142,121
+17-NSPIDER-232,arthropod,spider,spider,10,nonnative,enriched,2015,saucercup magnolia,17.95,13.82,-25.64,46.47,181,121,60,181,121

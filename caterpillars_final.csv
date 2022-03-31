@@ -1,0 +1,58 @@
+isotope_code,treesp,site,tray.,Linear.corr.d15N,Atm..15N,Linear.corr.d13C,sample_type,site_type,cal_datecollected,enrich_day_real,days_since_enrich
+17-CINSECT-016,red oak,15,control caterpillars,2.5887988,0.367238137,-27.8454814,control caterpillars,native,127,127,0
+17-CINSECT-017,willow oak,15,control caterpillars,4.4859364,0.367930482,-27.64772,control caterpillars,native,127,127,0
+17-CINSECT-018,planetree,5,control caterpillars,5.597603,0.368336172,-26.9508958,control caterpillars,nonnative,138,139,0
+17-CINSECT-019,norway maple,7,control caterpillars,1.5281628,0.366851062,-26.7448512,control caterpillars,nonnative,132,125,0
+17-CINSECT-020,norway maple,8,control caterpillars,3.156139,0.367445184,-30.9547876,control caterpillars,nonnative,133,134,0
+17-CINSECT-021,weeping cherry,16,control caterpillars,2.4597214,0.36719103,-26.5822934,control caterpillars,nonnative,125,125,0
+17-CINSECT-022,japanese maple,9,control caterpillars,4.0997048,0.367789531,-27.1486572,control caterpillars,nonnative,121,121,0
+17-CINSECT-023,norway maple,4,control caterpillars,0.6466342,0.366529349,-26.9829932,control caterpillars,nonnative,122,122,0
+17-CINSECT-024,european plum,6,control caterpillars,3.9095908,0.36772015,-27.3878346,control caterpillars,nonnative,124,125,0
+17-CINSECT-025,bush honeysuckle,6,control caterpillars,2.180554,0.36708915,-29.4731302,control caterpillars,nonnative,124,125,0
+17-CINSECT-026,bradford pear,6,control caterpillars,3.1581402,0.367445914,-29.2556962,control caterpillars,nonnative,124,125,0
+17-CINSECT-027,red maple,12,control caterpillars,7.1445306,0.368900699,-27.176613,control caterpillars,native,130,130,0
+17-CINSECT-028,willow oak,12,control caterpillars,2.3826752,0.367162913,-27.979048,control caterpillars,native,130,130,0
+17-CINSECT-001,red maple,12,control caterpillars,5.5065484,0.368302942,-28.0442782,control caterpillars,native,130,130,0
+17-CINSECT-039,redbud,12,control caterpillars,5.9790756,0.368475385,-27.1133879,control caterpillars,native,130,130,0
+17-CINSECT-002,red oak,12,control caterpillars,5.3584596,0.368248899,-27.3153566,control caterpillars,native,130,130,0
+17-CINSECT-003,fringetree,12,control caterpillars,4.1557384,0.36780998,-27.9200302,control caterpillars,native,130,130,0
+17-CINSECT-004,red maple,14,control caterpillars,8.699463,0.369468141,-29.361307,control caterpillars,native,120,120,0
+17-CINSECT-005,willow oak,3,control caterpillars,1.7182768,0.366920443,-25.7757168,control caterpillars,native,128,128,0
+17-CINSECT-006,beech,3,control caterpillars,4.1777516,0.367818013,-25.8274868,control caterpillars,native,128,128,0
+17-CINSECT-007,flowering dogwood,3,control caterpillars,5.5265604,0.368310246,-26.7065414,control caterpillars,native,128,128,0
+17-CINSECT-008,willow oak,13,control caterpillars,1.350056,0.366786062,-27.3909408,control caterpillars,native,119,140,0
+17-CINSECT-040,pin oak,13,control caterpillars,1.0985637,0.36669428,-26.9371149,control caterpillars,native,119,140,0
+17-CINSECT-010,southern arrowwood,10,control caterpillars,3.976631,0.367744616,-25.9900446,control caterpillars,native,133,134,0
+17-CINSECT-011,black cherry,10,control caterpillars,3.9686262,0.367741695,-24.8200426,control caterpillars,native,133,134,0
+17-CINSECT-012,black cherry,2,control caterpillars,2.7779122,0.367307152,-28.5039958,control caterpillars,native,122,124,0
+17-CINSECT-013,serviceberry,2,control caterpillars,1.7242804,0.366922634,-29.5818472,control caterpillars,native,122,124,0
+17-CINSECT-014,ironwood,2,control caterpillars,3.0720886,0.36741451,-28.584757,control caterpillars,native,122,124,0
+17-CINSECT-015,red maple,15,control caterpillars,2.2776122,0.36712457,-26.2778858,control caterpillars,native,119,127,0
+17-CINSECT-046,crape myrtle,11,control caterpillars,4.1072628,0.367792289,-25.9271743,control caterpillars,nonnative,136,NA,0
+17-CINSECT-050,bradford pear,15,control caterpillars,-1.1592105,0.365870302,-27.3415059,control caterpillars,nonnative,170,127,43
+17-CINSECT-051,willow oak,7,control caterpillars,2.785395,0.367309883,-27.7801146,control caterpillars,native,171,125,46
+17-CINSECT-052,river birch,16,control caterpillars,0.8525883,0.366604512,-30.4262834,control caterpillars,native,166,125,41
+17-CINSECT-054,flowering dogwood,8,control caterpillars,6.9839751,0.368842107,-27.0449525,control caterpillars,native,173,134,39
+17-NINSECT-078,red maple,3,enriched caterpillars,120.897693,0.410395641,-28.373427,enriched caterpillars,native,146,128,18
+17-NINSECT-079,pin oak,12,enriched caterpillars,35.4799453,0.379240141,-28.603786,enriched caterpillars,native,181,130,51
+17-NINSECT-080,black cherry,10,enriched caterpillars,171.2902647,0.428766827,-25.64734,enriched caterpillars,native,167,134,33
+17-NINSECT-081,pin oak,10,enriched caterpillars,534.248624,0.560887472,-27.652393,enriched caterpillars,native,181,134,47
+17-NINSECT-082,red maple,15,enriched caterpillars,209.8748044,0.442828678,-29.37647,enriched caterpillars,native,181,127,54
+17-NINSECT-083,willow oak,15,enriched caterpillars,513.4090432,0.553311134,-29.018019,enriched caterpillars,native,181,127,54
+17-NINSECT-084,carolina snowbell,2,enriched caterpillars,95.0526635,0.400970912,-28.298018,enriched caterpillars,native,147,124,23
+17-NINSECT-085,ironwood,2,enriched caterpillars,530.5556221,0.559544946,-30.224563,enriched caterpillars,native,182,124,58
+17-NINSECT-086,red maple,14,enriched caterpillars,153.3907243,0.422242122,-31.850505,enriched caterpillars,native,162,120,42
+17-NINSECT-087,red maple,14,enriched caterpillars,45.2774205,0.382814688,-27.515004,enriched caterpillars,native,180,120,60
+17-NINSECT-088,crape myrtle,16,enriched caterpillars,62.7730544,0.389197223,-27.623469,enriched caterpillars,nonnative,166,125,41
+17-NINSECT-089,japanese maple,16,enriched caterpillars,550.2772296,0.566713969,-28.61205,enriched caterpillars,nonnative,182,125,57
+17-NINSECT-090,japanese cherry,16,enriched caterpillars,125.5520921,0.41209274,-26.767112,enriched caterpillars,nonnative,182,125,57
+17-NINSECT-091,japanese cherry,16,enriched caterpillars,249.3060518,0.457195004,-24.852963,enriched caterpillars,nonnative,143,125,18
+17-NINSECT-111,redbud,12,enriched caterpillars,204.653855,0.440926174,-29.8403574,enriched caterpillars,native,181,130,51
+17-NINSECT-112,fringetree,12,enriched caterpillars,93.7549438,0.400497634,-29.8445122,enriched caterpillars,native,167,130,37
+17-NINSECT-113,willow oak,15,enriched caterpillars,500.5096248,0.548620906,-28.456809,enriched caterpillars,native,160,127,33
+17-NINSECT-114,pin oak,13,enriched caterpillars,1039.638236,0.744271661,-27.6995967,enriched caterpillars,native,160,140,20
+17-NINSECT-115,pin oak,13,enriched caterpillars,207.616133,0.442005632,-27.8460534,enriched caterpillars,native,177,140,37
+17-NINSECT-116,serviceberry,2,enriched caterpillars,95.9113226,0.401284062,-29.1880538,enriched caterpillars,native,166,124,42
+17-NINSECT-117,norway maple,7,enriched caterpillars,139.9954052,0.417358727,-29.2077891,enriched caterpillars,nonnative,150,125,25
+17-NINSECT-118,mulberry,7,enriched caterpillars,32.7110716,0.378229888,-27.3277421,enriched caterpillars,nonnative,182,125,57
+17-NINSECT-119,crape myrtle,5,enriched caterpillars,159.5683828,0.424494086,-28.5897626,enriched caterpillars,nonnative,157,139,18

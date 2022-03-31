@@ -1,0 +1,207 @@
+,species,site,site_type,sample_type,d15N,d13c
+1,american beech,13,native,control,3.24,-31.86
+2,american beech,13,native,enriched,0.53,-32.00
+3,american fringetree,15,native,control,2.18,-29.67
+4,american fringetree,15,native,enriched,202.45,-30.31
+5,apple,22,nonnative,control,7.83,-30.09
+6,bamboo,17,nonnative,control,3.31,-31.49
+7,bamboo,17,nonnative,enriched,42.49,-31.31
+8,beech,3,native,control,2.14,-26.09
+9,beech,3,native,enriched,1073.42,-27.07
+10,black cherry,2,native,control,2.08,-28.11
+11,black cherry,2,native,enriched,893.31,-30.39
+12,black cherry,14,native,control,2.26,-25.62
+13,black cherry,14,native,enriched,106.13,-26.85
+14,black gum,19,native,control,3.49,-26.36
+15,black gum,19,native,enriched,511.66,-29.40
+16,bradford pear,6,nonnative,control,4.01,-29.06
+17,bradford pear,6,nonnative,enriched,1181.32,-28.55
+18,burning bush,7,nonnative,control,2.51,-29.02
+19,burning bush,7,nonnative,enriched,127.89,-30.24
+20,bush honeysuckle,6,nonnative,control,0.80,-30.76
+21,bush honeysuckle,6,nonnative,enriched,337.93,-29.72
+22,bush honeysuckle,7,nonnative,control,-0.06,-29.75
+23,bush honeysuckle,7,nonnative,enriched,179.05,-29.99
+24,bush honeysuckle,9,nonnative,enriched,275.68,-32.16
+25,bush honeysuckle,11,nonnative,control,4.83,-30.05
+26,bush honeysuckle,11,nonnative,enriched,257.79,-31.36
+27,bush honeysuckle,17,nonnative,control,1.23,-28.22
+28,carolina snowbell,2,native,control,1.40,-27.79
+29,carolina snowbell,2,native,enriched,346.51,-29.54
+30,chinese elm,5,nonnative,control,5.87,-28.71
+31,chinese elm,5,nonnative,enriched,216.26,-28.95
+32,crape myrtle,5,nonnative,control,6.18,-28.15
+33,crape myrtle,5,nonnative,enriched,217.85,-27.44
+34,crape myrtle,6,nonnative,control,1.34,-28.46
+35,crape myrtle,6,nonnative,enriched,229.51,-27.81
+36,crape myrtle,24,nonnative,control,1.48,-28.82
+37,crape myrtle,24,nonnative,enriched,135.42,-28.81
+38,crape myrtle,9,nonnative,enriched,125.18,-29.61
+39,european plum,6,nonnative,control,3.20,-28.80
+40,european plum,6,nonnative,enriched,522.59,-26.87
+41,european plum,8,nonnative,control,33.11,-25.81
+42,european plum,8,nonnative,enriched,181.13,-26.35
+43,flowering dogwood,1,native,control,-0.92,-28.15
+44,flowering dogwood,1,native,enriched,587.68,-29.30
+45,flowering dogwood,3,native,control,3.32,-27.31
+46,flowering dogwood,3,native,enriched,219.84,-27.46
+47,flowering dogwood,9,nonnative,control,1.03,-31.10
+48,flowering dogwood,10,nonnative,control,0.35,-29.85
+49,flowering dogwood,13,native,control,3.86,-28.18
+50,flowering dogwood,13,native,enriched,759.66,-28.40
+51,flowering dogwood,14,native,control,2.50,-27.50
+52,flowering dogwood,14,native,enriched,409.50,-28.90
+53,flowering dogwood,15,native,control,1.34,-28.42
+54,flowering dogwood,15,native,enriched,583.22,-26.89
+55,flowering dogwood,16,native,control,2.73,-26.54
+56,flowering dogwood,16,native,enriched,1034.67,-26.47
+57,flowering dogwood,18,native,control,-0.32,-28.04
+58,flowering dogwood,18,native,enriched,925.56,-29.73
+59,flowering dogwood,19,native,control,0.01,-26.87
+60,flowering dogwood,19,native,enriched,634.57,-27.77
+61,flowering dogwood,20,native,control,9.03,-28.32
+62,flowering dogwood,20,native,enriched,395.66,-29.08
+63,flowering dogwood,23,native,control,-1.52,-29.93
+64,flowering dogwood,23,native,enriched,802.86,-28.95
+65,forsythia,9,nonnative,enriched,506.10,-29.58
+66,fragrant snowbell,4,nonnative,control,0.11,-28.80
+67,fragrant snowbell,4,nonnative,enriched,257.03,-28.44
+68,grey birch,20,native,control,-0.07,-30.02
+69,grey birch,20,native,enriched,115.99,-29.85
+70,honey locust,19,native,enriched,79.87,-30.92
+71,honeysuckle,17,nonnative,enriched,122.94,-29.39
+72,ironwood,2,native,control,2.77,-29.82
+73,ironwood,2,native,enriched,278.57,-30.51
+74,japanese cherry,5,nonnative,control,0.76,-26.61
+75,japanese cherry,5,nonnative,enriched,131.07,-28.49
+76,japanese cherry,17,nonnative,enriched,225.79,-30.88
+77,japanese cherry,24,nonnative,control,2.16,-26.81
+78,japanese cherry,24,nonnative,enriched,189.48,-27.38
+79,japanese maple,4,nonnative,control,0.81,-28.70
+80,japanese maple,4,nonnative,enriched,630.72,-27.44
+81,japanese maple,6,nonnative,control,-0.49,-28.34
+82,japanese maple,6,nonnative,enriched,1062.66,-27.56
+83,japanese maple,8,nonnative,control,5.75,-29.51
+84,japanese maple,8,nonnative,enriched,370.40,-29.51
+85,japanese maple,9,nonnative,enriched,282.69,-31.00
+86,japanese maple,12,nonnative,control,4.17,-28.70
+87,japanese maple,12,nonnative,enriched,898.13,-30.73
+88,japanese maple,17,nonnative,control,2.13,-30.98
+89,japanese maple,22,nonnative,control,20.37,-28.81
+90,japanese maple,22,nonnative,enriched,975.66,-29.32
+91,japanese maple,22,nonnative,enriched,319.59,-31.15
+92,japanese maple,24,nonnative,control,0.13,-30.98
+93,japanese maple,24,nonnative,enriched,317.45,-27.72
+94,japanese silverbell,22,nonnative,enriched,287.02,-31.30
+95,japanese silverbell,22,nonnative,enriched,170.67,-29.60
+96,japanese silverbell,22,nonnative,control,1.04,-31.29
+97,korean spice viburnum,10,nonnative,enriched,288.96,-28.43
+98,kousa dogwood,4,nonnative,control,1.72,-28.26
+99,kousa dogwood,4,nonnative,enriched,198.63,-28.71
+100,kousa dogwood,8,nonnative,control,5.29,-30.03
+101,kousa dogwood,8,nonnative,enriched,2019.44,-30.89
+102,kousa dogwood,9,nonnative,enriched,303.36,-29.38
+103,kousa dogwood,10,nonnative,enriched,962.48,-31.55
+104,kousa dogwood,11,nonnative,control,2.17,-28.15
+105,kousa dogwood,11,nonnative,enriched,446.06,-28.88
+106,mapleleaf viburnum,2,native,control,2.52,-28.08
+107,mapleleaf viburnum,2,native,enriched,410.36,-30.30
+108,mulberry,7,nonnative,enriched,348.02,-29.33
+109,mulberry,11,nonnative,enriched,173.08,-30.90
+110,mulberry,12,nonnative,control,3.72,-26.79
+111,mulberry,12,nonnative,enriched,118.89,-29.41
+112,mulberry,11,nonnative,control,4.78,-28.32
+113,norway maple,7,nonnative,control,0.90,-27.71
+114,norway maple,7,nonnative,enriched,219.09,-29.19
+115,norway maple,10,nonnative,enriched,728.33,-30.88
+116,norway maple,11,nonnative,control,2.79,-30.31
+117,norway maple,11,nonnative,enriched,735.80,-31.13
+118,norway maple,17,nonnative,control,-0.07,-30.14
+119,norway maple,17,nonnative,enriched,710.96,-30.25
+120,oak,23,native,enriched,23.12,-30.85
+121,persian ironwood,11,nonnative,control,1.91,-26.63
+122,persian ironwood,11,nonnative,enriched,504.05,-27.96
+123,pin oak,14,native,control,0.52,-28.86
+124,pin oak,14,native,enriched,640.47,-29.58
+125,pin oak,15,native,control,1.45,-26.31
+126,pin oak,15,native,enriched,227.62,-27.72
+127,pin oak,16,native,control,6.86,-29.92
+128,pin oak,16,native,enriched,512.02,-30.42
+129,plum,22,nonnative,control,6.29,-27.99
+130,plum,22,nonnative,enriched,525.33,-29.22
+131,plum,22,nonnative,enriched,265.30,-29.57
+132,red-leaf plum,6,nonnative,enriched,473.99,-27.47
+133,red maple,1,native,control,-1.40,-29.78
+134,red maple,1,native,enriched,107.52,-29.82
+135,red maple,3,native,control,3.15,-29.71
+136,red maple,3,native,enriched,737.08,-30.83
+137,red maple,13,native,control,1.40,-30.82
+138,red maple,13,native,enriched,266.25,-32.23
+139,red maple,14,native,control,0.18,-28.82
+140,red maple,14,native,enriched,539.72,-30.08
+141,red maple,15,native,control,0.51,-28.98
+142,red maple,15,native,enriched,185.92,-29.62
+143,red maple,18,native,control,-0.48,-29.70
+144,red maple,18,native,enriched,119.46,-32.30
+145,red maple,19,native,enriched,278.30,-31.77
+146,red maple,20,native,control,0.75,-28.41
+147,red maple,20,native,enriched,465.85,-28.35
+148,red maple,21,native,control,0.17,-30.27
+149,red maple,21,native,enriched,209.23,-27.90
+150,red maple,23,native,control,-2.41,-30.12
+151,red maple,23,native,enriched,37.98,-30.18
+152,red oak,10,nonnative,control,1.22,-28.76
+153,red oak,21,native,control,4.91,-28.21
+154,red oak,21,native,enriched,593.34,-26.84
+155,red oak,23,native,control,-0.76,-30.40
+156,redbud,9,nonnative,control,22.66,-31.41
+157,redbud,15,native,control,1.72,-29.02
+158,redbud,15,native,enriched,246.74,-30.28
+159,river birch,10,nonnative,control,4.21,-30.08
+160,river birch,16,native,control,12.95,-29.10
+161,river birch,16,native,enriched,157.24,-29.45
+162,saucercup magnolia,5,nonnative,control,2.32,-26.01
+163,saucercup magnolia,5,nonnative,enriched,212.97,-26.56
+164,saucercup magnolia,12,nonnative,control,3.81,-27.06
+165,saucercup magnolia,12,nonnative,enriched,180.82,-28.55
+166,saucercup magnolia,22,nonnative,control,22.96,-29.90
+167,serviceberry,2,native,control,1.25,-30.85
+168,serviceberry,2,native,enriched,528.06,-32.63
+169,southern arrowwood,14,native,control,0.85,-29.36
+170,southern arrowwood,14,native,enriched,664.67,-28.52
+171,spicebush,2,native,control,1.99,-29.62
+172,spicebush,2,native,enriched,315.94,-31.87
+173,star magnolia,22,nonnative,enriched,328.26,-29.70
+174,star magnolia,22,nonnative,enriched,258.38,-29.70
+175,stellar dogwood,6,nonnative,control,2.17,-24.84
+176,stellar dogwood,6,nonnative,enriched,204.01,-26.83
+177,sugar maple,18,native,control,-1.03,-29.33
+178,sugar maple,18,native,enriched,181.64,-29.45
+179,sugar maple,20,native,control,0.17,-30.02
+180,sugar maple,20,native,enriched,337.37,-28.91
+181,swamp white oak,19,native,control,5.75,-27.34
+182,swamp white oak,19,native,enriched,26.79,-30.09
+183,sweetgum,13,native,control,1.75,-32.05
+184,sweetgum,13,native,enriched,1244.62,-32.24
+185,sweetgum,3,native,control,5.27,-29.88
+186,sweetgum,3,native,enriched,448.54,-29.85
+187,tulip poplar,1,native,control,0.46,-30.96
+188,tulip poplar,1,native,enriched,246.89,-31.57
+189,viburnum dentatum,2,native,enriched,889.83,-30.21
+190,viburnum plicatum,8,nonnative,control,3.08,-28.85
+191,viburnum plicatum,8,nonnative,enriched,407.37,-30.02
+192,viburnum plicatum,5,nonnative,control,2.52,-31.63
+193,viburnum plicatum,5,nonnative,enriched,426.00,-31.78
+194,white oak,1,native,control,-0.32,-29.74
+195,white oak,1,native,enriched,999.56,-30.25
+196,white oak,14,native,control,4.50,-30.19
+197,willow oak,3,native,enriched,375.20,-29.22
+198,willow oak,15,native,control,1.08,-29.11
+199,willow oak,15,native,enriched,408.91,-29.12
+200,willow oak,16,native,control,5.29,-26.60
+201,willow oak,16,native,enriched,478.88,-29.31
+202,willow oak,21,native,control,3.68,-28.08
+203,willow oak,21,native,enriched,514.57,-29.24
+204,witchhazel,10,nonnative,enriched,800.62,-30.92
+205,zelkova,24,nonnative,control,2.97,-27.56
+206,zelkova,24,nonnative,enriched,672.64,-28.85
